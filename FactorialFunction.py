@@ -6,3 +6,4 @@ def facto(n):
 
 n1 = int(input('Enter the number: '))
 facto(n1)
+/
